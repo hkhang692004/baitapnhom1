@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\BaiTapBuoi3\\BTNhom1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2664516B-5E60-4C31-B5A3-2BB3E7613DA7}|BTNhom1\\BTNhom1.vcxproj|C:\\Users\\ADMIN\\source\\repos\\BaiTapBuoi3\\BTNhom1\\BTNhom1\\battapnhom1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2664516B-5E60-4C31-B5A3-2BB3E7613DA7}|BTNhom1\\BTNhom1.vcxproj|solutionrelative:BTNhom1\\battapnhom1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "battapnhom1.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapBuoi3\\BTNhom1\\BTNhom1\\battapnhom1.cpp",
+              "RelativeDocumentMoniker": "BTNhom1\\battapnhom1.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapBuoi3\\BTNhom1\\BTNhom1\\battapnhom1.cpp",
+              "RelativeToolTip": "BTNhom1\\battapnhom1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T15:17:39.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
